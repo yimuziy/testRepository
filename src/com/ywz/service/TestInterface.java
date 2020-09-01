@@ -1,0 +1,10 @@
+package com.ywz.service;
+
+/**
+ * @author ywz
+ * @date 2020/9/1 16:06
+ * @description
+ */
+public interface TestInterface {
+    void m();
+}
