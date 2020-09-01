@@ -7,4 +7,5 @@ package com.ywz.service;
  */
 public interface TestInterface {
     void m();
+    void m2();
 }
